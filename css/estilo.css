@@ -1,0 +1,30 @@
+#home {
+	background: #000000;
+	color: rgb(255, 255, 255);;
+}
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid(238, 238, 238);
+
+}
+footer p a {
+    margin: 5px 15px;
+}
+
+.nav-item {
+    font-display: #000000;
+}
+
+.btn-primary {
+    background: #ffc107;
+    border: #ffc107;
+}
+
+.caixa {
+    background: rgb(238, 238, 238);
+    color: black;
+}
+
+.row {
+    color: #ffc107;
+}
